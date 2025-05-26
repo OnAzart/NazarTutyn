@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Nazar 👋</h1>
 <p align="center">
- 📊 Data Engineer | 👨‍💻 Developer | 🤖 AI App Builder | 
+ 📊 Data Engineer | 🤖 AI App Builder | 👨‍💻 Developer
 </p>
 
 ---
