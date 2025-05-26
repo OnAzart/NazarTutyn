@@ -33,3 +33,6 @@
 
 ✉️ _DM me if you're working on something exciting in data or AI — always open to chat!_
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onazart&show_icons=true&locale=en" alt="onazart" /></p>
+
